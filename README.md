@@ -1,4 +1,10 @@
 
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=ApplexityHQ&label=Profile%20Views&color=red&style=for-the-badge" />
+</div>
+
+
+
 
 <!--
 **ApplexityHQ/ApplexityHQ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -25,7 +31,7 @@ Here are some ideas to get you started:
 
 <!-- Using a GitHub-safe typing SVG (works everywhere) -->
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning.+Building.+Shipping.;Building+In+Stealth+Mode.;0-100+Journey+In+Public.;No+Breaks.+No+BS.+Relentless+Era." />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=700&color=00F7FF&center=true&vCenter=true&width=600&lines=Learning.+Building.+Shipping.;Building+In+Stealth+Mode.;0-100+Journey+In+Public.;No+Breaks.+No+BS.+Relentless+Era." />
 
 </div>
 
